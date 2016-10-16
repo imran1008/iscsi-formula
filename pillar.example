@@ -1,0 +1,13 @@
+iscsi:
+    iqn: 'iqn.2005-03.org.open-iscsi:aaaaaaaaaaa'
+    username: 'target_username'
+    password: 'target_password'
+    username_in: 'initiator_username'
+    password_in: 'initiator_password'
+
+    ifaces:
+        - vlan_san00
+        - vlan_san01
+        - vlan_san02
+        - vlan_san03
+

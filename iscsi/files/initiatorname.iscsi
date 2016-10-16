@@ -1,0 +1,6 @@
+#
+# This file is managed by salt
+#
+
+InitiatorName={{ initiator_name }}
+

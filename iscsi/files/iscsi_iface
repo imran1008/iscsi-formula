@@ -1,0 +1,13 @@
+#
+# This file is managed by salt
+#
+
+iface.iscsi_ifacename = {{ iface_name }}
+iface.net_ifacename = {{ iface_name }}
+iface.transport_name = tcp
+iface.vlan_id = 0
+iface.vlan_priority = 0
+iface.iface_num = 0
+iface.mtu = 0
+iface.port = 0
+
